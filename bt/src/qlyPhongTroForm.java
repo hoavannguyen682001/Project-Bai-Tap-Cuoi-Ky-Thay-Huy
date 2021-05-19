@@ -194,6 +194,7 @@ public class qlyPhongTroForm extends javax.swing.JFrame {
                 new qlyPhongTroForm().setVisible(true);
             }
         });
+        //ádkjasdhakjshdakjsdh
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
